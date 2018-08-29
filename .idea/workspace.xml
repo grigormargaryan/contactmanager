@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="604f2d57-94af-4abc-94fd-0f3e2e47a239" name="Default" comment="" />
+    <list default="true" id="604f2d57-94af-4abc-94fd-0f3e2e47a239" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -45,7 +49,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-35">
@@ -55,11 +59,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Contact.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/contacts/Contact.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
                 <marker date="1535533574676" expanded="true" signature="886:2020" ph="..." />
@@ -120,7 +134,6 @@
         <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/components/Header.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/components/Contact.js" />
@@ -137,6 +150,7 @@
         <option value="$PROJECT_DIR$/src/components/contacts/Contact.js" />
         <option value="$PROJECT_DIR$/src/components/contacts/EditContact.js" />
         <option value="$PROJECT_DIR$/src/context.js" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -159,8 +173,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="126" />
-    <option name="y" value="145" />
+    <option name="x" value="185" />
+    <option name="y" value="398" />
     <option name="width" value="1267" />
     <option name="height" value="499" />
   </component>
@@ -233,15 +247,15 @@
       <updated>1535358538363</updated>
       <workItem from="1535358539838" duration="14028000" />
       <workItem from="1535446714213" duration="10889000" />
-      <workItem from="1535522258063" duration="9996000" />
+      <workItem from="1535522258063" duration="12236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34913000" />
+    <option name="totallyTimeSpent" value="37153000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="126" y="145" width="1267" height="499" extended-state="0" />
+    <frame x="185" y="398" width="1267" height="499" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36897105" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -279,7 +293,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
             <marker date="1535531116135" expanded="true" signature="1197:2686" ph="..." />
             <marker date="1535531116135" expanded="true" signature="1312:2644" ph="..." />
             <marker date="1535531116135" expanded="true" signature="1415:2625" ph="..." />
@@ -414,14 +428,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/contacts/AddContact_ref.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -445,7 +451,7 @@
         <state relative-caret-position="108">
           <caret line="15" column="62" lean-forward="false" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -489,7 +495,7 @@
         <state relative-caret-position="90">
           <caret line="26" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
             <marker date="1535531116135" expanded="true" signature="1197:2686" ph="..." />
             <marker date="1535531116135" expanded="true" signature="1312:2644" ph="..." />
             <marker date="1535531116135" expanded="true" signature="1415:2625" ph="..." />
@@ -510,7 +516,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/contacts/Contact.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
             <marker date="1535533574676" expanded="true" signature="886:2020" ph="..." />
@@ -553,6 +559,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-35">
           <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding />
         </state>
       </provider>
