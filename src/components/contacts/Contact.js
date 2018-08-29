@@ -20,8 +20,6 @@ class Contact extends Component {
     } catch (e) {
       dispatch({type: 'DELETE_CONTACT',payload: id});
     }
-    dispatch({type: 'DELETE_CONTACT',payload: id});
-
   };
 
   render() {
