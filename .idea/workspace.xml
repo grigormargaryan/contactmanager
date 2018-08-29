@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="604f2d57-94af-4abc-94fd-0f3e2e47a239" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/contacts/AddContact.js" afterPath="$PROJECT_DIR$/src/components/contacts/AddContact.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/contacts/Contact.js" afterPath="$PROJECT_DIR$/src/components/contacts/Contact.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/contacts/EditContact.js" afterPath="$PROJECT_DIR$/src/components/contacts/EditContact.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/context.js" afterPath="$PROJECT_DIR$/src/context.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,10 +16,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AddContact.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AddContact.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/contacts/AddContact.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-288">
+            <state relative-caret-position="522">
               <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
               <folding>
                 <marker date="1535541540708" expanded="true" signature="1197:2686" ph="..." />
@@ -36,7 +33,7 @@
       <file leaf-file-name="EditContact.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/contacts/EditContact.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
+            <state relative-caret-position="486">
               <caret line="39" column="37" lean-forward="false" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
@@ -52,30 +49,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="context.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/context.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
-              <caret line="39" column="36" lean-forward="false" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Contact.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Contact.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/contacts/Contact.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+            <state relative-caret-position="396">
+              <caret line="22" column="51" lean-forward="false" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
-                <marker date="1535541540692" expanded="true" signature="886:2020" ph="..." />
-                <marker date="1535541540692" expanded="true" signature="1011:1978" ph="..." />
-                <marker date="1535541540692" expanded="true" signature="1030:1684" ph="..." />
-                <marker date="1535541540692" expanded="false" signature="1281:1290" ph="..." />
-                <marker date="1535541540692" expanded="true" signature="1774:1935" ph="..." />
+                <marker date="1535541735893" expanded="true" signature="936:2070" ph="..." />
+                <marker date="1535541735893" expanded="true" signature="1061:2028" ph="..." />
+                <marker date="1535541735893" expanded="true" signature="1080:1734" ph="..." />
+                <marker date="1535541735893" expanded="false" signature="1331:1340" ph="..." />
+                <marker date="1535541735893" expanded="true" signature="1824:1985" ph="..." />
               </folding>
             </state>
           </provider>
@@ -124,10 +109,10 @@
         <option value="$PROJECT_DIR$/src/components/test/Test.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/components/contacts/Contact.js" />
         <option value="$PROJECT_DIR$/src/context.js" />
         <option value="$PROJECT_DIR$/src/components/contacts/EditContact.js" />
         <option value="$PROJECT_DIR$/src/components/contacts/AddContact.js" />
+        <option value="$PROJECT_DIR$/src/components/contacts/Contact.js" />
       </list>
     </option>
   </component>
@@ -229,12 +214,12 @@
       <updated>1535358538363</updated>
       <workItem from="1535358539838" duration="14028000" />
       <workItem from="1535446714213" duration="10889000" />
-      <workItem from="1535522258063" duration="13729000" />
+      <workItem from="1535522258063" duration="13924000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38646000" />
+    <option name="totallyTimeSpent" value="38841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="-4" width="1863" height="1084" extended-state="6" />
@@ -498,24 +483,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/contacts/Contact.js">
+    <entry file="file://$PROJECT_DIR$/src/components/contacts/AddContact.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        <state relative-caret-position="522">
+          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
-            <marker date="1535541540692" expanded="true" signature="886:2020" ph="..." />
-            <marker date="1535541540692" expanded="true" signature="1011:1978" ph="..." />
-            <marker date="1535541540692" expanded="true" signature="1030:1684" ph="..." />
-            <marker date="1535541540692" expanded="false" signature="1281:1290" ph="..." />
-            <marker date="1535541540692" expanded="true" signature="1774:1935" ph="..." />
+            <marker date="1535541540708" expanded="true" signature="1197:2686" ph="..." />
+            <marker date="1535541540708" expanded="true" signature="1312:2644" ph="..." />
+            <marker date="1535541540708" expanded="true" signature="1415:2625" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/context.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
+        <state relative-caret-position="702">
           <caret line="39" column="36" lean-forward="false" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -525,7 +507,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/contacts/EditContact.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
+        <state relative-caret-position="486">
           <caret line="39" column="37" lean-forward="false" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -540,14 +522,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/contacts/AddContact.js">
+    <entry file="file://$PROJECT_DIR$/src/components/contacts/Contact.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-288">
-          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        <state relative-caret-position="396">
+          <caret line="22" column="51" lean-forward="false" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
           <folding>
-            <marker date="1535541540708" expanded="true" signature="1197:2686" ph="..." />
-            <marker date="1535541540708" expanded="true" signature="1312:2644" ph="..." />
-            <marker date="1535541540708" expanded="true" signature="1415:2625" ph="..." />
+            <element signature="e#0#39#0" expanded="true" />
+            <marker date="1535541735893" expanded="true" signature="936:2070" ph="..." />
+            <marker date="1535541735893" expanded="true" signature="1061:2028" ph="..." />
+            <marker date="1535541735893" expanded="true" signature="1080:1734" ph="..." />
+            <marker date="1535541735893" expanded="false" signature="1331:1340" ph="..." />
+            <marker date="1535541735893" expanded="true" signature="1824:1985" ph="..." />
           </folding>
         </state>
       </provider>
