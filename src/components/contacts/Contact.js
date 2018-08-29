@@ -16,7 +16,7 @@ class Contact extends Component {
   // u parametrakan funciayi jamnak asyn@ grvuma parametreric araj isk hakaraki jamanak dem@
   onDeleteClick = async (id,dispatch) => {
     try{
-      await  axios.delete(`http://jsonplaceholder.typicode.com/users/${id}`)
+      await  axios.delete(`https://jsonplaceholder.typicode.com/users/${id}`)
     } catch (e) {
       dispatch({type: 'DELETE_CONTACT',payload: id});
     }
