@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="604f2d57-94af-4abc-94fd-0f3e2e47a239" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/fields/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/register/RegisterForm.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/register/RegisterForm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/container/RegisterFormContainer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/validation/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/contactAction.js" afterPath="$PROJECT_DIR$/src/actions/contactAction.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/index.js" afterPath="$PROJECT_DIR$/src/reducers/index.js" />
-    </list>
+    <list default="true" id="604f2d57-94af-4abc-94fd-0f3e2e47a239" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -39,6 +26,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="30" column="44" lean-forward="false" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/validation/index.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -49,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/fields/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
@@ -57,6 +54,16 @@
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="11" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -206,19 +213,6 @@
               <item name="contactmanager" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="contactmanager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="contactmanager" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="contactmanager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="contactmanager" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="register" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -266,12 +260,12 @@
       <workItem from="1535358539838" duration="14028000" />
       <workItem from="1535446714213" duration="10889000" />
       <workItem from="1535522258063" duration="24026000" />
-      <workItem from="1535610255314" duration="13177000" />
+      <workItem from="1535610255314" duration="13406000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62120000" />
+    <option name="totallyTimeSpent" value="62349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="136" y="24" width="1265" height="491" extended-state="0" />
@@ -697,24 +691,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="44" lean-forward="false" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/container/RegisterFormContainer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -767,6 +743,22 @@
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="30" column="44" lean-forward="false" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
