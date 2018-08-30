@@ -1,0 +1,76 @@
+.custom-select-container {
+    position: relative;
+    margin: 0 0 25px 0;
+}
+
+select {
+    display: block;
+}
+
+select,
+input:not(
+[type='checkbox']),
+button[type='submit'] {
+    width: 100%;
+}
+
+button[type='submit'] {
+    background-color: orange;
+    color: white;
+}
+
+/*Validation styles*/
+.valid input {
+    border-color: green;
+}
+
+.invalid input {
+    border-color: red;
+}
+
+.error-text {
+    background-color: red;
+    color: white;
+    margin-top: 10px;
+    position: relative;
+}
+
+.error-text::before {
+    content: '';
+    border-color: transparent transparent red transparent;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 8px 8px 7px;
+    position: absolute;
+    left: 20px;
+    top: -8px;
+}
+
+@keyframes grey-pulse {
+    0% {
+        border-color: gray;
+    }
+    50% {
+        border-color: #eee;
+    }
+    100% {
+        border-color: gray;
+    }
+}
+
+.async-validating input{
+    border-color: grey;
+    animation-name: grey-pulse;
+    animation-iteration-count: infinite;
+    animation-duration: 1.4s;
+}
+
+.field-array-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.field-array-item button {
+    align-self: start;
+}
