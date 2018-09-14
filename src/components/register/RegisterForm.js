@@ -7,7 +7,8 @@ import {
   minLength,
   maxLength,
   matchesPassword,
-  asyncValidate
+  asyncValidate,
+  email
 } from '../../validation';
 import './RegisterForm.css'
 
@@ -39,6 +40,13 @@ class RegisterForm extends Component {
           label="Username"
           validate={[required, minLength, maxLength]}
         />
+        {/*<Field*/}
+          {/*name="email"*/}
+          {/*component={customInput}*/}
+          {/*type="text"*/}
+          {/*label="Email"*/}
+          {/*validate={[email,]}*/}
+        {/*/>*/}
         <Field
           name="password"
           component={customInput}
